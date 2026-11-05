@@ -27,7 +27,9 @@ flowchart LR
 [![Zapier](https://img.shields.io/badge/Zapier-Integration-FF6B35?style=for-the-badge&logo=zapier)](https://zapier.com)
 [![Status](https://img.shields.io/badge/Status-Reference%20Architecture-blue?style=for-the-badge)](https://github.com)
 
-**Enterprise HubSpot webhook gateway and payload formatter for revenue operations automation.**
+**Reference architecture for a proposed HubSpot webhook and payload-mapping workflow.**
+
+**Current status:** Documentation only. This repository contains no executable middleware, exported workflow or verified deployment. The capabilities below describe the intended design.
 
 ---
 
@@ -82,12 +84,9 @@ Database Write
 
 ## 💼 Built by Naveen Sharma
 
-**CRM Specialist | RevOps Architect | HubSpot Expert**
+**AI Automation & Integration | SaaS Implementation**
 
-- ✅ 4+ years SaaS implementation experience
-- ✅ 500+ form workflows configured
-- ✅ 25+ agencies supported
-- ✅ Production RevOps automation
+Experience includes healthcare SaaS configuration, conditional forms, JSON/data mapping and workflow validation. This reference design is separate from paid employment; it does not establish a production RevOps deployment.
 
 ---
 
@@ -96,3 +95,4 @@ Database Write
 - [Setup Guide](docs/SETUP.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Payload and mapping examples](docs/ARCHITECTURE.md)
+
